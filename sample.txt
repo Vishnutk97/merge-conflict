@@ -1,6 +1,3 @@
 hello this is for testing purpose
 
-practise sessions for git rese
-
-
-final commit for testing
+practise sessions for git reset
